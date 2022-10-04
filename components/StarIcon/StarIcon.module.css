@@ -1,0 +1,13 @@
+.svg {
+	margin-right: 5px;
+
+	transition: 0.4s;
+}
+
+.filled {
+	fill: #7653fc;
+}
+
+.editable {
+	cursor: pointer;
+}

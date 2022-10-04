@@ -1,0 +1,28 @@
+.button {
+  display: inline-block;
+
+  box-sizing: border-box;
+  padding: 10px;
+
+  cursor: pointer;
+  text-align: center;
+  border: none;
+  border-radius: 5px;
+
+  font-size: 14px;
+  transition: all 0.2s; 
+}
+
+.button svg {
+	width: 50px;
+	height: 50px;	
+}
+
+.close {
+  color: white;
+  background-color: #7653fc;
+}
+
+.close:hover {
+  background-color: #6344df;
+}

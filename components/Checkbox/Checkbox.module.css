@@ -1,0 +1,12 @@
+.svg {
+	margin-right: 5px;
+	cursor: pointer;
+	transition: 0.4s;
+	
+	
+}
+
+.editable {
+	cursor: pointer;
+}
+

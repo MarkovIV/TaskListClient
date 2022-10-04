@@ -1,0 +1,11 @@
+.editable {
+	cursor: pointer;
+}
+
+.priorityWrapper {
+	display: grid;
+	grid-template-columns: 25px 25px 25px;
+	justify-items: left;	
+}
+
+
